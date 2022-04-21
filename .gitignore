@@ -130,3 +130,5 @@ dmypy.json
 
 # Jetbrains Intellij IDEA
 .idea/
+/venv/
+/venv/
